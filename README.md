@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenCuong
 - 👀 I’m interested in try on the new game.
-- 🌱 I’m currently learning C++, HTML+CSS, PHP.
+- 🌱 I’m currently learning C++, Java Back end
 - 💞️ I’m looking to collaborate on HR : 
 - 📫 How to reach me : nvc.nvcuong@gmail.com
 
