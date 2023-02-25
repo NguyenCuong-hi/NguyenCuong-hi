@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NguyenCuong
 - 👀 I’m interested in try on the new game.
-- 🌱 I’m currently learning C++, Java Back end
-- 💞️ I’m looking to collaborate on HR : 
+- 🌱 I’m currently learning Python
+- 🚀 Have EXP with Java BE , use framework Spring Boot
 - 📫 How to reach me : nvc.nvcuong@gmail.com
 
 <!---
