@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NguyenCuong
 - 👀 I’m interested in try on the new game.
 - 🌱 I’m currently learning Python
-- 🚀 Have EXP with Java BE , use framework Spring Boot
+- 🚀 Have EXP with Java BE Spring Boot, NEST JS, REACTJS
 - 📫 How to reach me : nvc.nvcuong@gmail.com
 
 <!---
